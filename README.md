@@ -22,7 +22,7 @@ Ensure you have Git installed on your local machine.
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/yourusername/sample-project.git
+   git clone https://github.com/CodeMaestroAyodeji/plp_sample_repo
    ```
 
 2. Navigate into the project directory
@@ -35,4 +35,4 @@ Describe how to use the project or any specific setup instructions.
 ### Contact
 Ayodeji - ajuwon2013@gmail.com
 
-Project Link: https://github.com/yourusername/sample-project
+Project Link: https://codemaestroayodeji.github.io/plp_sample_repo/
